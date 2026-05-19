@@ -64,10 +64,10 @@
 
 | 프로젝트 | 설명 | 기술 |
 |---|---|---|
-| [◆ document-project](https://github.com/nam-willow/document-project) | ML 모델 기반 문서 인식 및 데이터 추출 _(진행중)_ | Python, C++ |
-| [◆ bg-segmentation-pipeline](https://github.com/nam-willow/bg-segmentation-pipeline) | OpenCV 6단계 폴백 + rembg 하이브리드 배경 자동 분리 | Python, OpenCV |
-| [◆ image-paragraph-segmenter](https://github.com/nam-willow/image-paragraph-segmenter) | 이미지 텍스트 위치·거리 기반 문단 자동 그룹화 | Python, OCR |
-| [◆ senior-jobs](https://github.com/nam-willow/senior-jobs) | 노인일자리 사업비 예산 관리 시스템 | Python |
+| [document-project](https://github.com/nam-willow/document-project) | ML 모델 기반 문서 인식 및 데이터 추출 _(진행중)_ | Python, C++ |
+| [bg-segmentation-pipeline](https://github.com/nam-willow/bg-segmentation-pipeline) | OpenCV 6단계 폴백 + rembg 하이브리드 배경 자동 분리 | Python, OpenCV |
+| [image-paragraph-segmenter](https://github.com/nam-willow/image-paragraph-segmenter) | 이미지 텍스트 위치·거리 기반 문단 자동 그룹화 | Python, OCR |
+| [senior-jobs](https://github.com/nam-willow/senior-jobs) | 노인일자리 사업비 예산 관리 시스템 | Python |
 
 ---
 
