@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=JUNG%20WOO%20NAM&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%7C%20Document%20AI%20%C2%B7%20Computer%20Vision%20%C2%B7%20Python&descAlignY=55&descSize=16" />
+<img  width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=JUNG%20WOO%20NAM&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%7C%20Document%20AI%20%C2%B7%20Computer%20Vision%20%C2%B7%20Python&descAlignY=55&descSize=16" />
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
@@ -74,7 +74,7 @@
 # 【 GitHub Activity 】
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nam-willow&theme=tokyo-night&hide_border=true&area=true" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nam-willow&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
