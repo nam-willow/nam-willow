@@ -20,19 +20,19 @@
 
 ---
 
-## 🔭 Currently Working On
+# 【 Currently Working On 】
 
 > **Samsung Document Understanding Project** @ 세인이엔에스
 > Python · UTNet · OpenCV2 · Ghostscript로 문서 전처리 파이프라인 구축 중
 
 ---
 
-## 🛠 Tech Stack
+# 【 Tech Stack 】
 
 **AI / ML / Vision**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,opencv,pytorch" />
+  <img src="https://skillicons.dev/icons?i=python,opencv" />
   &nbsp;
   <img src="https://img.shields.io/badge/UTNet-4B8BBE?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/Stable_Diffusion-FF6B6B?style=flat-square&logoColor=white" />
@@ -60,31 +60,26 @@
 
 ---
 
-## 📌 Projects
+# 【 Projects 】
 
 | 프로젝트 | 설명 | 기술 |
 |---|---|---|
-| [🔍 document-project](https://github.com/nam-willow/document-project) | ML 모델 기반 문서 인식 및 데이터 추출 _(진행중)_ | Python, C++ |
-| [✂️ bg-segmentation-pipeline](https://github.com/nam-willow/bg-segmentation-pipeline) | OpenCV 6단계 폴백 + rembg 하이브리드 배경 자동 분리 | Python, OpenCV |
-| [📄 image-paragraph-segmenter](https://github.com/nam-willow/image-paragraph-segmenter) | 이미지 텍스트 위치·거리 기반 문단 자동 그룹화 | Python, OCR |
-| [💰 senior-jobs](https://github.com/nam-willow/senior-jobs) | 노인일자리 사업비 예산 관리 시스템 | Python |
+| [◆ document-project](https://github.com/nam-willow/document-project) | ML 모델 기반 문서 인식 및 데이터 추출 _(진행중)_ | Python, C++ |
+| [◆ bg-segmentation-pipeline](https://github.com/nam-willow/bg-segmentation-pipeline) | OpenCV 6단계 폴백 + rembg 하이브리드 배경 자동 분리 | Python, OpenCV |
+| [◆ image-paragraph-segmenter](https://github.com/nam-willow/image-paragraph-segmenter) | 이미지 텍스트 위치·거리 기반 문단 자동 그룹화 | Python, OCR |
+| [◆ senior-jobs](https://github.com/nam-willow/senior-jobs) | 노인일자리 사업비 예산 관리 시스템 | Python |
 
 ---
 
-## 📈 GitHub Stats
+# 【 GitHub Activity 】
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=nam-willow&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nam-willow&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=nam-willow&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nam-willow&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
 
-## 💼 Career Timeline
+# 【 Career Timeline 】
 
 ```
 2025.11 ~ 현재  Samsung Document Understanding @ 세인이엔에스
